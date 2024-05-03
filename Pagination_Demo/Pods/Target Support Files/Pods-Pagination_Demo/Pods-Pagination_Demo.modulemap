@@ -1,0 +1,6 @@
+framework module Pods_Pagination_Demo {
+  umbrella header "Pods-Pagination_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
